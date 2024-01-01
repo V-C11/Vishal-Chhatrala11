@@ -2,10 +2,11 @@
 
 
 
-### My skills include
+
+### My skills
 
 <p align="center">
-User
+
 <h3 align="left">Spreadsheet</h3>
 
 ###
