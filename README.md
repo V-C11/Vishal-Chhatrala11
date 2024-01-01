@@ -12,9 +12,9 @@ User
 
 <div align="left">
   
-  <img src="https://www.svgrepo.com/svg/452066/ms-excel" height="40" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/svg/132516/google-sheets" height="40" alt="react logo"  />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" height="40" alt="react logo"  />
   <img width="12" />
 
 </div>
@@ -70,8 +70,9 @@ User
 ###
 
 <div align="left">
-  <img title="Power BI" alt="Power" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&psig=AOvVaw3mtum-64tABUc74OmlJXcO&ust=1704222419034000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi1mbPxvIMDFQAAAAAdAAAAABAD" width="200" style="vertical-align:down; margin:4px"/>
-  <img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
+  <img title="Power BI" alt="Power BI" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fmicrosoft_powerbi%2Findex.html&psig=AOvVaw3mtum-64tABUc74OmlJXcO&ust=1704222419034000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi1mbPxvIMDFQAAAAAdAAAAABAH" width="200" style="vertical-align:down; margin:4px"/>
+  <img title="Google Analytics" alt="Power" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" width="200" style="vertical-align:down; margin:4px"/>
+  <img title="Tableau" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" width="200" style="vertical-align:down; margin:4px"/>
 
 </div>
 
