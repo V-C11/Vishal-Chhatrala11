@@ -4,8 +4,6 @@
 
 
 ### My skills
-
-
 <hr>
 
 <p align="center">
