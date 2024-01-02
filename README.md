@@ -5,6 +5,9 @@
 
 ### My skills
 
+
+<hr>
+
 <p align="center">
 
 <h3 align="left">Spreadsheet</h3>
