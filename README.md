@@ -48,10 +48,8 @@
 ###
 ### Tools & Platforms: 
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
- <img src="https://res.cloudinary.com/dujkjy2e2/image/upload/c_scale,w_394,x_697,y_516/v1708701249/klaviyo-new-20228862_pf9p74.jpg" title="Klaviyo" alt="Klaviyo" width="50" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
 </div>
 
