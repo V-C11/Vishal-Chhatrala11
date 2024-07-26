@@ -64,20 +64,7 @@
 <hr>
 
 
-<p align="center">
-  <h3 align="left">Visualization</h3>
 
-###
-
-<div align="left">
-  <img title="Power BI" alt="Power BI" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fmicrosoft_powerbi%2Findex.html&psig=AOvVaw3mtum-64tABUc74OmlJXcO&ust=1704222419034000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi1mbPxvIMDFQAAAAAdAAAAABAH" width="200" style="vertical-align:down; margin:4px"/>
-  <img title="Google Analytics" alt="Power" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"  style="vertical-align:down; margin:4px"/>
-  <img title="Tableau" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" style="vertical-align:down; margin:4px"/>
-
-</div>
-
-###
-</p>
 	
 <!--
 
