@@ -66,8 +66,6 @@
 
 <hr>
 
-<br><br><br>
-
 ### 🌱 Continuous Learning
 In this ever-evolving field, I believe in the power of continuous learning and adaptation. I regularly dedicate time to exploring new technologies, participating in coding challenges, and attending online workshops. This commitment to growth ensures that I'm always equipped with the latest knowledge and best practices to tackle any project.
 
