@@ -57,11 +57,22 @@
 
 </p>
 
+### Design & UI/UX: 
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="Xd" alt="Xd" width="40" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
+</div>
 
 
 <hr>
 
+<br><br><br>
 
+### 🌱 Continuous Learning
+In this ever-evolving field, I believe in the power of continuous learning and adaptation. I regularly dedicate time to exploring new technologies, participating in coding challenges, and attending online workshops. This commitment to growth ensures that I'm always equipped with the latest knowledge and best practices to tackle any project.
+
+### 🤝 Let's Connect
+I'm always on the lookout for new challenges and opportunities to collaborate on exciting projects. Whether you're in need of a Frontend Developer to bring your vision to life or seeking to contribute to your open-source project, feel free to reach out to me.
 
 	
 <!--
