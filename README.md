@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Vishal Chhatrala,
 
+
+### MY SKILLS
 <hr>
 
 <p align="center">
